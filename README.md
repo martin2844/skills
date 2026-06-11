@@ -7,6 +7,7 @@ My curated list of handcrafted skills.
 | Skill | Description |
 |-------|-------------|
 | [big-review](big-review/) | Deep, evidence-first code review for local diffs and GitHub PRs |
+| [nextjs-audit](nextjs-audit/) | Evidence-first Next.js (App Router, 14+) audit for framework invariants, security boundaries, caching, effects, and convention drift |
 
 ## Installation
 
